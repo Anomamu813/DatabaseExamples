@@ -1,4 +1,5 @@
 create table volcanoes_tbl(
+	id INTEGER PRIMARY KEY,
     name CHARFIELD(25),
     type CHARFIELD(8),
     location CHARFIELD(25),
