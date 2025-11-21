@@ -1,3 +1,4 @@
+-- Script to create a table. Change as you wish.
 create table volcanoes_tbl(
 	id INTEGER PRIMARY KEY,
     name CHARFIELD(25),

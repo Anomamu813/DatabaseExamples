@@ -1,0 +1,16 @@
+
+SQL lesson
+##########
+1. Create an sqlite3 database:
+	touch Volcanoes.db 
+   This will create a zero byte file. Nest you create the tables in the file.
+2. Create the tables by running the script CreateTable.sql
+	sqlite3 Volcanoes.db < CreateTable.sql
+   This will create the table(s) with the settings you specify. Next you add data.
+3. Check the export file and ensure it is comma delimited.
+4. Run import_data.py:
+	python import_data.py
+5. Run selectAll.sql:
+	sqlite3 Volcanoes < selectAll.sql
+
+Now you have a populated table in your database.
