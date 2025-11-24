@@ -1,0 +1,7 @@
+1,"Chocolate"
+2,"Toffee"
+3,"Marshmellow"
+4,"Fudge"
+5,"Hard Sweets"
+6,"Jelly Candy"
+7,"Candy"
