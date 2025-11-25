@@ -29,9 +29,7 @@ STEPS
 	3,"Tarawera","Violent","New Zealand",0,"1886",
 5. Run import_data.py:
 	python import_data.py
-6. Run selectAll.sql:
-	sqlite3 Volcanoes < selectAll.sql
-7. Run SelectAll.sql:
+6. Run SelectAll.sql:
 	sqlite3 Volcanoes.db < SelectAll.sql
 
 Now you have a populated table in your database.
