@@ -1,0 +1,5 @@
+Question 17 (3 marks)
+
+A shop uses an online database for recording it's stock. The database contains a Products table and a Suppliers table. The prices are in dollars and the masses are in grams.
+
+The shop wants to identify all the products with a mass of at least 50 grams that are produced by Yumtreats. Write an SQL query to display the product names and supplier names, in descending order by product name.
